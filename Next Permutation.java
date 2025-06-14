@@ -41,3 +41,5 @@ class Solution {
         }
     }
 }
+
+// TC : O(3N) SC : O(1)
